@@ -1,4 +1,4 @@
-# projetocrudpythonsantandercoders
+# projeto_crud_python_santandercoders
 Projeto de um app CRUD em Python para o bootcamp Santander Coders
 
 Objetivo:
